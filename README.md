@@ -74,10 +74,4 @@ Create a board with:
 
 ## ✅ Next Steps
 
-Would you like me to:
-- Prepare a ZIP of the dummy project structure?
-- Push it to your GitHub account?
-- Add sample UI (basic HTML/React)?
-- Generate a project logo + banner image?
 
-Let me know how far you'd like to take this.

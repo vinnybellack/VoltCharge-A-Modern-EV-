@@ -1,6 +1,6 @@
 # ⚡ VoltCharge
 
-> Modern, open-source electric vehicle charging station locator & management app.(2019-2022)
+> Modern, open-source electric vehicle charging station locator & management app.
 
 ![VoltCharge Banner](./assets/banner.png) <!-- Replace with actual image -->
 
@@ -69,11 +69,31 @@ npm run dev
 
 Track issues and progress through the GitHub Projects board with the following columns:
 
-- Backlog  
-- To Do  
-- In Progress  
-- Review  
-- Done  
+- **Backlog**  
+  - Integrate Leaflet.js as the default map renderer  
+  - Set up database schema for charging stations and user bookings  
+  - Plan UI wireframes and mobile layout structure
+
+- **To Do**  
+  - Create user registration and login flows  
+  - Implement map component to show nearby chargers  
+  - Develop backend API for station availability and booking
+
+- **In Progress**  
+  - Build responsive homepage layout using Tailwind CSS  
+  - Test authentication using JWT  
+  - Set up Docker environment for backend/frontend containers
+
+- **Review**  
+  - Code review for CORS middleware fix  
+  - UI review for map overlay and responsiveness on mobile
+
+- **Done**  
+  - Initialized GitHub repo with project structure and documentation  
+  - Added CI workflow using GitHub Actions  
+  - Drafted README and issue templates
+
+> Contributions are welcome! Start with a good first issue.  
 
 > Contributions are welcome! Start with a good first issue.
 

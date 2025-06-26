@@ -1,4 +1,4 @@
-# ⚡ VoltCharge
+# ⚡ VoltCharge (2019/2022)
 
 > A modern, open-source electric vehicle charging station locator and management app.
 

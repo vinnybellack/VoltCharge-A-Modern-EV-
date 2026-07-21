@@ -38,7 +38,7 @@ VoltCharge is a sleek and scalable EV charging station locator platform that ena
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/voltcharge.git
+git clone https://github.com/vinnybellack/VoltCharge-A-Modern-EV-.git
 cd voltcharge
 
 # Install frontend dependencies
